@@ -7,8 +7,9 @@ Varlıklar : Öğrenci, Öğretmen, Ders, Bölüm <br/>
 Öğrenci - Ders ==> Many to Many <br/>
 Öğrenci - Hoca ==> Many to Many <br/>
 Ders - Bölüm ==> Many to Many <br/>
-Bölüm - Öğrenci ==> One to Many <br/>
+Bölüm - Öğrenci ==> One to Many <br/><br/>
 
+![highschool](https://github.com/yalcinselcuk/HighSchoolSQL/assets/81808916/4e609691-40c3-402e-9d70-484e5262b391) <br/><br/>
 
 create table departments( <br/>
 id int not null, <br/>
